@@ -24,14 +24,6 @@ Outputs data for the Progress_Tracker module
 
 2. DIET MAKER MODULE
 This module helps trainees plan their diet based on statistical and user-specific data.
-
-Key Features:
-
-Sets a calorie intake target based on user requirements
-Recommends suitable food items for the diet
-Customizes diets for bulking, cutting, or maintenance
-Data Flow:
-
 Uses data from the BASIC module
 Outputs data for the EXERCISE module
 
